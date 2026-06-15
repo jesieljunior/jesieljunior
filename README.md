@@ -1,58 +1,148 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=150&section=header&text=Jesiel%20Junior&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jesiel%20Junior&fontAlign=50&fontAlignY=40&fontSize=45&desc=Backend%20Developer%20%7C%20Python%20%7C%20Technology%20Instructor&descAlignY=60&animation=fadeIn" />
 
-### 👋 Olá, sou o Jesiel Junior!
+# Olá, eu sou o Jesiel 👋
 
-Sou desenvolvedor com base **full-stack** e foco atual em **back-end**, especialmente com **Python**.  
-Nos últimos meses tenho me aprofundado em projetos com **APIs REST, organização de sistemas, automações, banco de dados e estruturação de servidores locais**.
+ Criador do **ClassCheck**, plataforma em produção para monitoramento de frequência e análise de evasão escolar.
 
-Também já atuei com front-end, e mantenho meus conhecimentos em **HTML, CSS e um pouco de React**, mas minha paixão hoje é resolver problemas complexos com código no lado do servidor.
+ Instrutor de Tecnologia nas áreas de Desenvolvimento Web, Python, Análise de Dados e Inteligência Artificial.
 
----
-
-### 🛠️ Tecnologias que tenho usado
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+ Desenvolvedor Backend com foco em Python, APIs REST, automação de processos e integração de sistemas.
 
 ---
 
-### 🚀 Projetos em Destaque
+## Sobre mim
 
-- 🧾 [API-IOS](https://github.com/jesieljunior/API-IOS)  
-  API construída com Python e Flask para gerenciamento de agendamentos, ideal para uso institucional.  
-  Foi aplicada em contexto real no Instituto da Oportunidade Social, com funcionalidades como autenticação, envio de e-mails automáticos e geração de QR Codes.
+Sou Desenvolvedor Backend Python e Instrutor de Tecnologia.
 
-- 💈 [Barbearia Marcos](https://github.com/jesieljunior/Barbearia-Marcos)  
-  Sistema de agendamento online para uma barbearia real, com estrutura de back-end e front-end, responsivo e funcional.  
-  Inclui painel administrativo, controle de horários e integração com WhatsApp.
+Atualmente atuo formando novos profissionais para o mercado de tecnologia e desenvolvendo soluções voltadas para automação, análise de dados e sistemas web.
 
----
+Minha experiência está concentrada principalmente em Python, desenvolvimento de APIs, bancos de dados, automação de processos e construção de aplicações que resolvem problemas reais.
 
-### 📌 Minha trajetória recente
-
-💼 Ao longo dos últimos meses, venho aplicando meus conhecimentos em contextos reais, como:
-
-- Automatização de lista de chamada com QR Code e Python
-- Construção de sistemas locais com Flask
-- Integração de agendamento com envio automático de e-mails
-- Otimização de páginas com HTML, CSS e responsividade
-- Apoio técnico a diversas áreas em projetos interdisciplinares
-
-Essa vivência me ajudou a crescer como dev, principalmente no entendimento de estrutura e lógica de sistemas. Hoje, meu foco é me consolidar como **desenvolvedor back-end** com Python.
+Acredito que tecnologia gera mais valor quando é aplicada para simplificar processos, apoiar decisões e melhorar a vida das pessoas.
 
 ---
 
-### 📫 Vamos conversar?
+## Projeto em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesieljunior)
+#  ClassCheck
+
+O ClassCheck nasceu para resolver um problema que eu vivenciava diariamente: o controle manual de frequência e a dificuldade em acompanhar indicadores de evasão escolar.
+
+A partir dessa necessidade, idealizei e desenvolvi uma plataforma completa para registro de presença, acompanhamento de alunos e análise de indicadores educacionais.
+
+### Minha atuação
+
+- Levantamento de requisitos
+- Modelagem de banco de dados
+- Desenvolvimento do backend
+- Implementação das regras de negócio
+- Sistema de autenticação JWT
+- Controle de acesso por perfis (RBAC)
+- Integrações e automações
+- Deploy e manutenção em produção
+
+### Tecnologias utilizadas
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,mongodb,git" />
+</p>
+
+### Impacto
+
+- Plataforma utilizada por unidades da instituição em diferentes estados brasileiros
+
+- Processo de chamada totalmente digital
+
+- Relatórios e indicadores para acompanhamento pedagógico
+
+- Identificação de alunos em risco de evasão
+
+- Apoio à tomada de decisão baseada em dados
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=120&section=footer"/>
+## Tecnologias
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## Atualmente estudando
+
+- Arquitetura de Software
+- FastAPI Avançado
+- Boas práticas de Backend
+- Integração de Sistemas
+- Automação de Processos
+- Inteligência Artificial aplicada a negócios
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jesieljunior&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesieljunior&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Minha trajetória
+
+Minha trajetória profissional começou fora da área de tecnologia.
+
+Passei por funções operacionais, administrativas e de atendimento antes de migrar para o desenvolvimento de software.
+
+Essa experiência me ajudou a enxergar sistemas não apenas como código, mas como ferramentas capazes de resolver problemas reais dentro de organizações.
+
+Hoje atuo unindo desenvolvimento de software e educação tecnológica, criando soluções e compartilhando conhecimento com novos profissionais.
+
+---
+
+## Contato
+
+<a href="https://www.linkedin.com/in/jesieljunior">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jesiel.amarojunior@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5511939006541">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+---
+
+ **jesiel.amarojunior@gmail.com**
+
+ **+55 (11) 93900-6541**
+
+ **LinkedIn:** www.linkedin.com/in/jesieljunior
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120"/>
