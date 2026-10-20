@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:0e3a4f&height=200&section=header&text=Jesiel%20Amaro%20Junior&fontColor=e6edf3&fontSize=42&fontAlignY=42&desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Sistemas%20transacionais&descColor=7dd3fc&descSize=18&descAlignY=64" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e3a4f&height=210&section=header&text=Jesiel%20Amaro%20Junior&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Backend%20%C2%B7%20APIs%20%C2%B7%20Sistemas%20transacionais&descColor=7dd3fc&descSize=18&descAlignY=58" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=38BDF8&center=true&vCenter=true&width=640&lines=Desenvolvo+sistemas+do+requisito+ao+deploy;ClassCheck+em+produ%C3%A7%C3%A3o+%C2%B7+9+unidades+%C2%B7+5+estados;Python+%C2%B7+C%23%2F.NET+%C2%B7+TypeScript" alt="" />
@@ -106,4 +106,4 @@ Procurando um dev backend para o seu time? Vamos conversar.
   <a href="mailto:jesiel.amarojunior@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0d1117&color=0e3a4f" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0e3a4f,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e3a4f,100:0d1117&height=100&section=footer" width="100%" />
